@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   },
   description:
     "Convierte divisas con tipos de cambio actualizados. Conversor de pesos, dólares, euros y más. Tasas en tiempo real gratis.",
+  verification: {
+    google: "uE8LX8x1ogogKDm5d996IPsYd3TiDWuigY5DcpJYqAE",
+  },
 }
 
 export default function RootLayout({
